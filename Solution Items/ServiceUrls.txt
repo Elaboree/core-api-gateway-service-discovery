@@ -1,0 +1,6 @@
+
+
+Web.ApiGateway             -> http://localgost:7000
+
+CatalogService.Api         -> http://localgost:7001
+OrderService.Api           -> http://localgost:7002
